@@ -118,11 +118,11 @@ while True:
     aX, aY, aZ, gX, gY, gZ = get_sensor_data()
     print(f"Accel: X={aX:.2f}g, Y={aY:.2f}g, Z={aZ:.2f}g | Gyro: X={gX:.2f}°/s,
  Y={gY:.2f}°/s, Z={gZ:.2f}°/s")
-    utime.sleep(1)```
+    utime.sleep(1)
 
 ---
 
-## **OUTPUT:**  
+## OUTPUT: 
 When the above program is executed, the output on the serial monitor will display real-time acceleration and gyroscope values, such as:
 
 ![image](https://github.com/user-attachments/assets/074ec8e5-461c-4788-a8bf-cf8de3539dbe)
@@ -133,7 +133,7 @@ Accel: X=0.03g, Y=-0.02g, Z=1.01g | Gyro: X=0.06°/s, Y=-0.03°/s, Z=0.02°/s
 ```
 ---
 
-## **RESULT:**  
+## RESULT:
 The **MPU6050 sensor** was successfully interfaced with the **Raspberry Pi Pico**, and real-time **acceleration and gyroscope data** were read and displayed. The sensor values can be used for **motion tracking, tilt detection, and gesture control applications**.
 
 ---
