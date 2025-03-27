@@ -2,10 +2,10 @@
 
 ---
 
-### **NAME:**  
-### **DEPARTMENT:**  
-### **ROLL NO:**  
-### **DATE OF EXPERIMENT:**  
+### **NAME: K.Goutham
+### **DEPARTMENT: CSE(IOT)
+### **ROLL NO: 212223110019
+### **DATE OF EXPERIMENT: 27/03/2025
 
 ---
 
@@ -118,6 +118,8 @@ while True:
 ## **OUTPUT:**  
 When the above program is executed, the output on the serial monitor will display real-time acceleration and gyroscope values, such as:
 ```
+![image](https://github.com/user-attachments/assets/074ec8e5-461c-4788-a8bf-cf8de3539dbe)
+
 Accel: X=0.02g, Y=-0.01g, Z=1.00g | Gyro: X=0.05°/s, Y=-0.02°/s, Z=0.01°/s
 Accel: X=0.03g, Y=-0.02g, Z=1.01g | Gyro: X=0.06°/s, Y=-0.03°/s, Z=0.02°/s
 ...
